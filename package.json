@@ -1,0 +1,34 @@
+{
+  "name": "javascript-algorithms",
+  "version": "1.0.0",
+  "description": "This is my second attempt to structure knowledge in computer science",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G-MontaG/javascript-algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "javascript",
+    "cormen"
+  ],
+  "author": "Artur Osypenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/G-MontaG/javascript-algorithms/issues"
+  },
+  "homepage": "https://github.com/G-MontaG/javascript-algorithms#readme",
+  "engines": {
+    "node": "^13.2.0",
+    "npm": "^6.13.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.7.4",
+    "@babel/preset-env": "^7.7.4",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0"
+  }
+}
